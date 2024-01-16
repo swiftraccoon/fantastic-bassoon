@@ -1,0 +1,25 @@
+{
+  "name": "fantastic-bassoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swiftraccoon/fantastic-bassoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swiftraccoon/fantastic-bassoon/issues"
+  },
+  "homepage": "https://github.com/swiftraccoon/fantastic-bassoon#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.11.0",
+    "express": "^4.18.2",
+    "pg": "^8.11.3",
+    "ws": "^8.16.0"
+  }
+}
